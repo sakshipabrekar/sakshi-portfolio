@@ -24,8 +24,7 @@ import {
   ChevronDown,
   Menu,
   X,
-  Zap,
-  Star,
+
   Rocket,
   Download,
 } from "lucide-react";
